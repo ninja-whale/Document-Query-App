@@ -1,7 +1,3 @@
-Here's a template for a README file that you can use for your GitHub project. It provides a detailed overview of the application, installation instructions, and usage guidelines.
-
----
-
 # Document Query and History Management App
 
 This is a Streamlit-based web application that allows users to upload documents, query them, and retrieve relevant information. The application securely stores data in a database, maintains user history, and provides the option to download chat history in PDF format.
@@ -99,14 +95,4 @@ This is a Streamlit-based web application that allows users to upload documents,
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any bugs, feature requests, or suggestions.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any inquiries or issues, please contact [your-email@example.com].
-
----
-
-Replace placeholders like `"your-username"` and `"your-email@example.com"` with your actual GitHub username and email address. Also, make sure the repository URL in the clone command is accurate. If you have additional features or instructions specific to your project, you can add them to the README.
