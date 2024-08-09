@@ -56,7 +56,7 @@ This is a Streamlit-based web application that allows users to upload documents,
 5. **Run the application:**
 
    ```bash
-   streamlit run project.py
+   streamlit run main.py
    ```
 
 ## Usage
