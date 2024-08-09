@@ -11,6 +11,9 @@ This is a Streamlit-based web application that allows users to upload documents,
 - **Download Chat History**: Users can download their chat history in a PDF format.
 - **Multi-Page Navigation**: Clean and user-friendly interface with multiple pages for login, document querying, and logout.
 
+## demo video
+``` https://github.com/ninja-whale/Document-Query-App/blob/main/demo.mp4 ```
+
 ## Installation
 
 ### Prerequisites
