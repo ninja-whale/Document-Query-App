@@ -23,7 +23,7 @@ This is a Streamlit-based web application that allows users to upload documents,
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/document-query-app.git
+   git clone https://github.com/ninja-whale/Document-Query-App.git
    cd document-query-app
    ```
 
